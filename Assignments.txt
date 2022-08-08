@@ -1,0 +1,31 @@
+@jdk software link..
+https://drive.google.com/drive/u/0/folders/1hIxiUc0HuBJ0YAnAqBZCe3cupSmUcfRs
+
+@Core Java Placement Questions
+https://javabykiran.in/placement/PlacementQuestions.pdf
+
+http://javabykiran.in/corejava/syllabus/javabykiran-NON-IT-syllabus.pdf
+
+https://javabykiran.in/corejava/JBKCORE9001-java-eclipse-setup.pdf
+
+https://javabykiran.in/corejava/JBKCORE9002-attaching-source-code-for-inbuilt-classes.pdf
+
+https://javabykiran.in/corejava/JBKCORE9003-simple-basic-assignment.pdf
+
+https://javabykiran.in/corejava/JBKCORE9004-class-method-calling.pdf
+
+https://javabykiran.in/corejava/JBKCORE9009-control-statements.pdf
+
+https://javabykiran.in/corejava/JBKCORE90010-constructor-super-this.pdf
+
+https://javabykiran.in/corejava/JBKCORE9008-accessspacifier.pdf
+
+https://javabykiran.in/corejava/JBKCORE9007-package.pdf
+
+https://javabykiran.in/corejava/JBKCORE90025-encapsulation.pdf
+
+https://javabykiran.in/corejava/JBKCORE90011-Inheritance.pdf
+
+https://javabykiran.in/corejava/JBKCORE90012-polymorphism.pdf
+
+https://javabykiran.in/corejava/JBKCORE90014-final-static.pdf
